@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.5d19148a.css",
   "main.css.map": "static/css/main.5d19148a.css.map",
-  "main.js": "static/js/main.7a7b0f68.js",
-  "main.js.map": "static/js/main.7a7b0f68.js.map",
+  "main.js": "static/js/main.cc5aea4e.js",
+  "main.js.map": "static/js/main.cc5aea4e.js.map",
   "static/media/about-bg.jpg": "static/media/about-bg.018055f8.jpg",
   "static/media/arrow.svg": "static/media/arrow.18ab8e42.svg",
   "static/media/contact-bg.jpg": "static/media/contact-bg.0e38f139.jpg",
@@ -13,7 +13,6 @@
   "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static/media/home-bg.jpg": "static/media/home-bg.afbd595e.jpg",
   "static/media/market_info.svg": "static/media/market_info.8e60cf93.svg",
-  "static/media/post-bg.jpg": "static/media/post-bg.3f19e5dc.jpg",
   "static/media/rebate.svg": "static/media/rebate.04b9279c.svg",
   "static/media/skyline.jpg": "static/media/skyline.5bb444e8.jpg"
 }
